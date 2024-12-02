@@ -64,7 +64,7 @@ const Education = () => {
           animate={inView ? "visible" : "hidden"}
           className="space-y-8"
         >
-          {educationData.map((edu, index) => (
+          {educationData.map((edu) => (
             <motion.div 
               key={edu.degree}
               variants={itemVariants}

@@ -41,10 +41,10 @@ const About = () => {
           className="max-w-3xl mx-auto text-center"
         >
           <motion.p variants={itemVariants} className="text-xl text-gray-300 mb-6">
-          I'm a passionate full-stack developer with a love for creating innovative and scalable web applications. With a strong foundation in JavaScript, React, Node.js, and TypeScript, I enjoy solving complex problems and building user-centric solutions
+          I&apos;sm a passionate full-stack developer with a love for creating innovative and scalable web applications. With a strong foundation in JavaScript, React, Node.js, and TypeScript, I enjoy solving complex problems and building user-centric solutions
           </motion.p>
           <motion.p variants={itemVariants} className="text-xl text-gray-300 mb-6">
-          I’m always learning and exploring new technologies to stay ahead in the ever-evolving tech landscape. When I’m not coding, you can find me experimenting with new ideas, contributing to open-source projects, or sharing my knowledge with others.
+          I&apos;sm always learning and exploring new technologies to stay ahead in the ever-evolving tech landscape. When I’m not coding, you can find me experimenting with new ideas, contributing to open-source projects, or sharing my knowledge with others.
           </motion.p>
           <motion.div variants={itemVariants} className="flex justify-center space-x-4">
             <motion.a 
