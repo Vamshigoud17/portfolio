@@ -13,7 +13,7 @@ const Footer = () => {
             <a href="https://github.com/Vamshigoud17" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition duration-300">
               GitHub
             </a>
-            <a href="https://drive.google.com/file/d/15JgPxCEVrs7WJKdOHNc82nU-OL6piFtq/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition duration-300">
+            <a href="https://drive.google.com/file/d/1AsoRv-4ctUGhWoelUM64olD913XT_I57/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition duration-300">
               Download Resume
             </a>
           </div>
