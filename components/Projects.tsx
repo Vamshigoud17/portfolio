@@ -6,6 +6,8 @@ import { useRef } from 'react'
 import project1 from '@/components/assets/page1.png'
 import project2 from '@/components/assets/bus_reservation.png'
 import project3 from '@/components/assets/hand_cric_ui.png'
+import project4 from '@/components/assets/whatsapp_UI.jpg'
+
 
 const projects = [
   {
@@ -28,6 +30,13 @@ const projects = [
     technologies: ['Next.js', 'Typescript', 'HTML', 'tailwind'],
     image: project3,
     link: 'https://github.com/Vamshigoud17/hand_cric_ai'
+  },
+  {
+    title: 'WhatsApp UI Clone – Flutter: ',
+    description: 'Designed and developed a WhatsApp-like user interface using Flutter, implementing responsive layouts and custom widgets for an authentic chat app experience.',
+    technologies: ['Flutter', 'Dart'],
+    image: project4,
+    link: 'https://github.com/Vamshigoud17/Whatsapp_UI'
   }
 ]
 

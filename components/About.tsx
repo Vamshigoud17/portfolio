@@ -41,10 +41,10 @@ const About = () => {
           className="max-w-3xl mx-auto text-center"
         >
           <motion.p variants={itemVariants} className="text-xl text-gray-300 mb-6">
-          I&apos;m a passionate full-stack developer with a love for creating innovative and scalable web applications. With a strong foundation in JavaScript, React, Node.js, and TypeScript, I enjoy solving complex problems and building user-centric solutions
+          I&apos;m passionate full-stack developer and tech enthusiast with a strong foundation in JavaScript, React, Node.js, Flutter, and AI-powered development. I love building innovative, scalable, and user-centric applications, whether it's web, mobile, or AI-driven solutions.
           </motion.p>
           <motion.p variants={itemVariants} className="text-xl text-gray-300 mb-6">
-          I&apos;m always learning and exploring new technologies to stay ahead in the ever-evolving tech landscape. When I’m not coding, you can find me experimenting with new ideas, contributing to open-source projects, or sharing my knowledge with others.
+          Constantly exploring emerging technologies, I enjoy solving complex problems, automating workflows, and pushing creative boundaries. Beyond coding, I experiment with new ideas, contribute to projects, and share my knowledge through content creation and tech discussions.
           </motion.p>
           <motion.div variants={itemVariants} className="flex justify-center space-x-4">
             <motion.a 

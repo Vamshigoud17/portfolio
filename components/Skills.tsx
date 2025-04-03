@@ -4,14 +4,15 @@ import { motion, useInView } from 'framer-motion'
 import { useRef } from 'react'
 
 const skills = [
-  { name: 'JavaScript', level: 90 },
+  { name: 'JavaScript', level: 75 },
   { name: 'React', level: 75 },
   { name: 'Next.js', level: 70 },
-  { name: 'TypeScript', level: 70 },
+  { name: 'Python', level: 70 },
   { name: 'JAVA', level: 80 },
   { name: 'MySQL', level: 80 },
   { name: 'Docker', level: 60 },
   { name: 'GIT', level: 80 },
+  { name: 'Flutter', level:70 }
 ]
 
 const Skills = () => {
